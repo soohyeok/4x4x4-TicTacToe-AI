@@ -2,5 +2,5 @@
 4x4x4-TicTacToe-AI
 
 Instructions:
-Compile the files and
-launch runTicTacToe
+- Compile the files
+- launch runTicTacToe
