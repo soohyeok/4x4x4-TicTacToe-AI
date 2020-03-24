@@ -1,7 +1,7 @@
 # 4x4x4-TicTacToe-AI
 
 ## Description
-- AI for 4*4*4 TicTacToe game with Artificial Neural Network
+- AI for 4 by 4 by 4 TicTacToe game with Artificial Neural Network
 
 ## Instructions to run:
 - Download folder
